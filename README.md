@@ -9,7 +9,7 @@
   
 # How To Reach Me
 
-<a herf = "https://www.linkedin.com/in/tudorgalatan/">
+<a herf = "https://www.linkedin.com/in/andreea-ciobota-318793297/">
 <img src = "logo/Linkedin-logo-transparent-white.jpg"
  width = "auto" height = "60px"
 
