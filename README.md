@@ -5,6 +5,15 @@
 - 🗺️Stoke-on-Trent, United Kingdom.
 - 📧andreeaciobota@icloud.com
 
+
+  
+# How To Reach Me
+
+<a herf = "https://www.linkedin.com/in/tudorgalatan/">
+<img src = "Logos/LinkedIn.png" width = "auto" height = "60px"
+  
+</a>
+
 ### Technical Skills 💻:
 
 ![HTML](https://img.shields.io/badge/HTML_5-ff763f) 
