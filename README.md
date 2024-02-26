@@ -10,7 +10,9 @@
 # How To Reach Me
 
 <a herf = "https://www.linkedin.com/in/tudorgalatan/">
-<img src = "Logos/LinkedIn.png" width = "auto" height = "60px"
+<img src = "logo/Linkedin-logo-transparent-white.jpg"
+ width = "auto" height = "60px"
+
   
 </a>
 
