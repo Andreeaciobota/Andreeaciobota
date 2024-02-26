@@ -9,11 +9,8 @@
   
 # How To Reach Me
 
-<a herf = "https://www.linkedin.com/in/andreea-ciobota-318793297/">
-<img src = "logo/Screenshot_2024-02-26_alle_20.33.46-removebg-preview.png"
- width = "auto" height = "60px"
-
-  
+<a href="https://www.linkedin.com/in/andreea-ciobota-318793297/">
+  <img src="logo/Screenshot_2024-02-26_alle_20.33.46-removebg-preview.png" width="auto" height="60px" />
 </a>
 
 ### Technical Skills 💻:
